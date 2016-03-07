@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LayoutOptimization</string>
+    <string name="tv_title">Layout optimization</string>
+    <string name="tv_back">Back</string>
+    <string name="tv_function">Function</string>
+    <string name="tv_content">Content</string>
+    <string name="progress_hint">Loading</string>
+    <string name="button_show">Show implicit Layout</string>
 </resources>
